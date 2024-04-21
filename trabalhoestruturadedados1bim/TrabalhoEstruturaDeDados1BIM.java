@@ -110,3 +110,14 @@ class Output {
                 + tempoExecucao + " milissegundos");
     }   
 }
+
+
+// priemeiramente fiz a opção para o usuario escolher o metodo de ordenação que ele deseja.
+// logo em seguida para o usuario inserir quantos elementos ele quer no tamanho do seu vetor.
+// e por ultimo inserir toda a quantidade de elementos que ele escolheu na opção anterior.
+
+// por ultimo o programa ira organizar os elementos utilizando o metodo de ordenação
+// que o usuario escolheu.
+// o programa ira dar o resultado da seguinte forma, a ordem que o usuario informou, em
+// seguida os elementos ordenado pelo metodo de seleção selecionado.
+
